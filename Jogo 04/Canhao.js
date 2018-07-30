@@ -1,8 +1,8 @@
 function Canhao(cor){
   this.imagem = new Image();
-  this.imagem.src = "canhao.png";
+  this.imagem.src = "Imagem/canhao.png";
   this.torre = new Image();
-  this.torre.src = "torre.png";
+  this.torre.src = "Imagem/torre.png";
   this.x = 330;
   this.y = 400;
   this.vx = 0;

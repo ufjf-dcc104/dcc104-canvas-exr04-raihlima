@@ -1,6 +1,6 @@
 function Predio(x){
   this.imagem = new Image();
-  this.imagem.src = "predio.png";
+  this.imagem.src = "Imagem/predio.png";
   this.id = x;
   this.x = 50 + (180 * x);
   this.y = 400;

@@ -1,6 +1,6 @@
 function Asteroide(velocidade){
   this.imagem = new Image();
-  this.imagem.src = "cometa.png";
+  this.imagem.src = "Imagem/cometa.png";
   this.x = Math.floor(Math.random() * 700);
   this.y = 0;
   this.vx =Math.floor(Math.random() * 300)-150;
